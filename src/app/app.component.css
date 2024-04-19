@@ -1,0 +1,14 @@
+nav{
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgba(205, 199, 199, 0.361);
+    padding: 25px;
+    border-radius: 10px;
+
+}
+
+a{
+   margin: 20px;
+   text-decoration: none;
+}
+

@@ -1,0 +1,13 @@
+.foto1 {
+    background-image: url("../../../assets/fotos/LasRozas.jpg");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+
+.foto2 {
+    background-image: url("../../../assets/fotos/LasTablas.jpg");
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}

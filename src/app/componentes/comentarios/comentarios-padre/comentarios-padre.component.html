@@ -1,0 +1,11 @@
+
+
+
+<app-comentarios-hijo (llamadaPadre)="recibirValor($event)"></app-comentarios-hijo>
+
+@for (item of comentarios; track $index) {
+    
+        <p>Comentario {{$index+1}}</p>
+        <p>- {{item}}</p>
+    
+}
